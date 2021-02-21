@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KampIntro", "KampIntro\Kamp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KampOdev2", "KampOdev2\KampOdev2.csproj", "{05166D8A-65F2-4856-99A1-F9C63F400CCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{95AA728F-EC54-416D-8E8A-CEF0D8A7022C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{05166D8A-65F2-4856-99A1-F9C63F400CCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{05166D8A-65F2-4856-99A1-F9C63F400CCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{05166D8A-65F2-4856-99A1-F9C63F400CCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95AA728F-EC54-416D-8E8A-CEF0D8A7022C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95AA728F-EC54-416D-8E8A-CEF0D8A7022C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95AA728F-EC54-416D-8E8A-CEF0D8A7022C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95AA728F-EC54-416D-8E8A-CEF0D8A7022C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
