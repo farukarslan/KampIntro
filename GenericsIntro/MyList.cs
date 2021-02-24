@@ -23,6 +23,7 @@ namespace GenericsIntro
 
             items[items.Length - 1] = item; // aslında eklenmek istenen yeni elemanı şimdi burada ekledik
         }
+
         public int Length
         {
             get { return items.Length; }
